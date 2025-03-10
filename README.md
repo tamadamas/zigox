@@ -1,2 +1,3 @@
-# zigbox
-Zig sandbox for learning and checking things
+# zigox
+
+Manage dev environment easy
